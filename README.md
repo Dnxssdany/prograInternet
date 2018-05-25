@@ -1,2 +1,2 @@
-# prograInternet
-Actividades de Programacion Para Internet
+# Progrmacion para Internet
+Aqui se mostrara el codigo de las Actividades de Programacion Para Internet
